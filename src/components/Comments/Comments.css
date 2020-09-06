@@ -1,0 +1,17 @@
+.comment {
+    border: 2px solid blue;
+    border-radius: 10px;
+    margin: 0 30px 5px 30px;
+}
+
+.comment-image {
+    display: flex;
+    margin-top: 10px;
+    margin-left: 45%;
+    /* width: 40%; */
+}
+
+.comment-body {
+    width: 600px;
+    margin-left: 400px;
+}
